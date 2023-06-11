@@ -1,8 +1,8 @@
 # RedditNSFWChecker
 Shell script that runs through list of subreddits and uses web scraping to determine if they are NSFW. Outputs to a list.
 
-#List of NSFW subreddits protesting API changes
-##1+ million:  
+# List of NSFW subreddits protesting API changes
+## 1+ million:  
 [r/adorableporn](https://old.reddit.com/r/adorableporn/)  
 [r/Amateur](https://old.reddit.com/r/Amateur/)  
 [r/amateurcumsluts](https://old.reddit.com/r/amateurcumsluts/)  
@@ -38,7 +38,7 @@ Shell script that runs through list of subreddits and uses web scraping to deter
 [r/WatchItForThePlot](https://old.reddit.com/r/WatchItForThePlot/)  
 [r/worldpolitics](https://old.reddit.com/r/worldpolitics/)  
 
-##500k+:  
+## 500k+:  
 [r/aa_cups](https://old.reddit.com/r/aa_cups/)  
 [r/abelladanger](https://old.reddit.com/r/abelladanger/)  
 [r/AssholeBehindThong](https://old.reddit.com/r/AssholeBehindThong/)  
@@ -95,7 +95,7 @@ Shell script that runs through list of subreddits and uses web scraping to deter
 [r/WomenOfColor](https://old.reddit.com/r/WomenOfColor/)  
 [r/YoungGirlsGoneWild](https://old.reddit.com/r/YoungGirlsGoneWild/)  
 
-##250k+:  
+## 250k+:  
 [r/adultneeds](https://old.reddit.com/r/adultneeds/)  
 [r/AsianAmericanPorn](https://old.reddit.com/r/AsianAmericanPorn/)  
 [r/AvaAddams](https://old.reddit.com/r/AvaAddams/)  
@@ -156,7 +156,7 @@ Shell script that runs through list of subreddits and uses web scraping to deter
 [r/westernhentai](https://old.reddit.com/r/westernhentai/)  
 [r/WholesomeHentai](https://old.reddit.com/r/WholesomeHentai/)  
 
-##100k+:  
+## 100k+:  
 [r/3DHentai](https://old.reddit.com/r/3DHentai/)  
 [r/Alison_Tyler](https://old.reddit.com/r/Alison_Tyler/)  
 [r/analcreampies](https://old.reddit.com/r/analcreampies/)  
@@ -233,7 +233,7 @@ Shell script that runs through list of subreddits and uses web scraping to deter
 [r/Thighs](https://old.reddit.com/r/Thighs/)  
 [r/ZootopiaPorn](https://old.reddit.com/r/ZootopiaPorn/)  
 
-##50k+:  
+## 50k+:  
 [r/18_22](https://old.reddit.com/r/18_22/)  
 [r/AirplaneNudes](https://old.reddit.com/r/AirplaneNudes/)  
 [r/AltBoobWorld](https://old.reddit.com/r/AltBoobWorld/)  
@@ -289,7 +289,7 @@ Shell script that runs through list of subreddits and uses web scraping to deter
 
 \* *^(= Not porn but NSFL. This is a manually created, not exhaustive list. No posts below were checked.)*
 
-##5k+:  
+## 5k+:  
 [r/AceAttorneyR34](https://old.reddit.com/r/AceAttorneyR34/)  
 [r/AltPussyWorld](https://old.reddit.com/r/AltPussyWorld/)  
 [r/AngelinaMichelle](https://old.reddit.com/r/AngelinaMichelle/)  
@@ -433,7 +433,7 @@ Shell script that runs through list of subreddits and uses web scraping to deter
 [r/yiffcrossdressing](https://old.reddit.com/r/yiffcrossdressing/)  
 [r/YiffgifsOnly](https://old.reddit.com/r/YiffgifsOnly/)  
 
-##5k and below:  
+## 5k and below:  
 [r/032r4r](https://old.reddit.com/r/032r4r/)  
 [r/AAPWMOB](https://old.reddit.com/r/AAPWMOB/)  
 [r/ageingpunks](https://old.reddit.com/r/ageingpunks/)  
